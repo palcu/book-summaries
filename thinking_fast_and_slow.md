@@ -73,4 +73,14 @@
   * No need to worry about this statistical information being ignored. On the contrary, it will immediately be used to feed a stereotype.
 * **regression to the mean** - the results will always tend to go to the average. High outliers will perform poorly, and low outliers will perform better. Correlation vs causation.
 	* our mind is strongly biased toward causal explanations and cannot deal with statistics
+* the evaluation of the future is the same as the evaluation of the present (substitution)
+* How to do regression to the mean:
+	*	get to the baseline
+	*	get the intuitive prediction
+	* estimate the correlation between evidence and the target
+	*	move from the baseline to the prediction, based on the correlation
+* if you are a VC, you may not want to use this method, because you want to find black swans
 
+## Part 3 - Overconfidence
+
+* **narrative fallacy** the tendency of believe flawed stories of the past because we want to make sense of the world
