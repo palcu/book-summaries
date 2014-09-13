@@ -84,3 +84,10 @@
 ## Part 3 - Overconfidence
 
 * **narrative fallacy** the tendency of believe flawed stories of the past because we want to make sense of the world
+* once you adopt a new view of the world, you immediately lose much of your ability to recall what you used to believe before your mind changed
+* **hindsight bias** - the “I-knew-it-all-along” effect
+* **outcome bias** - if the outcome is bad, then we blame. If it is good, then we praise.
+	* this favors the reckless, the gambles, the few and transforms them in _leaders_
+* the **illusion of validity** - even though you know your work is useless, you still cannot embody this information
+	* the illusion of skill of stock traders is an example
+	* traders appear to be ignorant of their ignorance
