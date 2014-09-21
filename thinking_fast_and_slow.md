@@ -91,3 +91,6 @@
 * the **illusion of validity** - even though you know your work is useless, you still cannot embody this information
 	* the illusion of skill of stock traders is an example
 	* traders appear to be ignorant of their ignorance
+* simple formulas where each feature has the same weight are as better as complex ones found from linear regression
+* there is a hostility towards algorithms in taking decisions (medical situations), but formulas are better then people
+* intuition adds value, but only after a disciplined collection of objective information
