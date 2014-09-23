@@ -94,3 +94,7 @@
 * simple formulas where each feature has the same weight are as better as complex ones found from linear regression
 * there is a hostility towards algorithms in taking decisions (medical situations), but formulas are better then people
 * intuition adds value, but only after a disciplined collection of objective information
+* intuition = the situation has provided a cue (system 1), which has given the expert access to information stored in the memory (system 2), which provides the answer
+* intuitions are formed in an environment that is sufficiently regular to be predictable and an opportunity to learn the regularities through practice
+* the inside view is WYSIATI. The outside view is based on base rates.
+* **planning fallacy** are unrealistically close to best-case scenarios and could be improved by consulting the statistics of similar cases
