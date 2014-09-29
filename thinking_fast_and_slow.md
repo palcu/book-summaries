@@ -98,3 +98,6 @@
 * intuitions are formed in an environment that is sufficiently regular to be predictable and an opportunity to learn the regularities through practice
 * the inside view is WYSIATI. The outside view is based on base rates.
 * **planning fallacy** are unrealistically close to best-case scenarios and could be improved by consulting the statistics of similar cases
+* if you are allowed one wish for your child, consider wishing him or her to be an optimist
+* people are overly optimistic about things they are good at, and estimate under average at things they feel they aren’t that good
+* **competition neglect** people are focusing only on WYISATI, ignoring the environment
