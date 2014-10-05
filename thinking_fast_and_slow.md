@@ -101,3 +101,9 @@
 * if you are allowed one wish for your child, consider wishing him or her to be an optimist
 * people are overly optimistic about things they are good at, and estimate under average at things they feel they aren’t that good
 * **competition neglect** people are focusing only on WYISATI, ignoring the environment
+* **premortem** - imagine we are a year in the future, we implemented the plan and the outcome was a disaster. Write a brief history about it.
+	* it overcomes herd-thinking
+	* it unleashes imagination of knowledgeable people
+
+## Part 4 - choices
+* you are risk-averse when you can win, and risk-seeker when you are losing in the both outcomes
